@@ -1,4 +1,4 @@
-package com.geekbang;
+package com.geekbang.week01;
 
 import java.lang.reflect.Method;
 
